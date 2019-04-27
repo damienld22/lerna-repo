@@ -1,5 +1,5 @@
 const logger = data => {
-  console.log(`==> coucou : ${data}`);
+  console.log(`==> new change : ${data}`);
 };
 
 module.exports = { logger };
