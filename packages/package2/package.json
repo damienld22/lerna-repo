@@ -1,6 +1,6 @@
 {
   "name": "@damienld22/package2",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "module": "index.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@damienld22/package1": "^1.0.4"
+    "@damienld22/package1": "^1.1.0"
   },
   "author": "",
   "license": "ISC",
