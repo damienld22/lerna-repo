@@ -1,5 +1,5 @@
 const logger = data => {
-  console.log(`==> ${data}`);
+  console.log(`==> coucou : ${data}`);
 };
 
 module.exports = { logger };
